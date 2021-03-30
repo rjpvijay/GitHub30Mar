@@ -3,3 +3,4 @@ New line added after staging
 Adding a 3rd line after 2 commits & pushes
 adding 4th line and committing locally
 Adding 5th line and committing locally as well as pushing to github
+Adding line 6 in github & pulling it to VSC
