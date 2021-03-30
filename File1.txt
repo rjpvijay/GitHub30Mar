@@ -1,3 +1,4 @@
 Test line
 New line added after staging
 Adding a 3rd line after 2 commits & pushes
+adding 4th line and committing locally
